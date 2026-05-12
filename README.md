@@ -1,8 +1,10 @@
-# dooh-portfolio
-A collection of real-world projects built around Digital Out-of-Home (DOOH) advertising data
-I work in digital advertising operations at a DOOH company in the US, where I manage
-campaign data processing, delivery tracking, and internal reporting workflows.
+Projects table (clean and scannable)
+| Project | Type | Tools | Status |
+|---|---|---|---|
+| Impression Delivery Audit Engine | Data Analysis | Python, Pandas, Power BI | In progress |
+| Screen Health & Uptime Dashboard | Data Analysis | Python, Power BI | Planned |
+| Campaign Trafficking PRD | Product Management | Notion, Figma | Planned |
 
-This portfolio showcases independent projects I've built to demonstrate applied skills
-in data analysis, Python, SQL, and product thinking — specifically within the DOOH
-and programmatic OOH space.
+Projects reference real industry standards including ROUTE audience measurement (UK),
+programmatic DOOH platforms (VIOOH, Hivestack, Broadsign), and operators including
+Ströer, JCDecaux, Ocean Outdoor, and Clear Channel.
