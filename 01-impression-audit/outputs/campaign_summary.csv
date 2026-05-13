@@ -1,0 +1,6 @@
+campaign_id,total_booked,total_delivered,under_delivery_days,over_delivery_days,on_track_days,overall_delivery_rate
+CAMP_A,2707000,2590251,46,27,527,95.69
+CAMP_B,2690000,2580183,49,24,527,95.92
+CAMP_C,2681000,2579763,40,28,532,96.22
+CAMP_D,2688000,2582262,50,28,522,96.07
+CAMP_E,2691000,2568017,52,24,524,95.43
